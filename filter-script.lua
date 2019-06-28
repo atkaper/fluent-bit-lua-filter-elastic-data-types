@@ -18,7 +18,7 @@
 
    We know it would be much better to ask all developers to hold themselves to some log standard, instead
    of having it to filter like this. But... we have over 100 developers, and I do NOT think that we can keep them
-   all in line (takes too mucht time), and we definitely do NOT want any developer to be able to make our
+   all in line (takes too much time), and we definitely do NOT want any developer to be able to make our
    log collector crash! The system should be very very robust, and self healing, without losing log data.
 
    20/6/2019 Thijs Kaper.
