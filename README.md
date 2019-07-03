@@ -25,3 +25,5 @@ log collector crash! The system should be very very robust, and self healing, wi
 
 20/6/2019 Thijs Kaper.
 
+Blog post: https://www.kaper.com/cloud/fluent-bit-elastic-search-data-type-filter/
+
